@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(221, 234, 238);
+}
+    h1 {
+    color: darkblue;
+    text-align: center;
+    }
+    p {
+    color: darkslategray;
+    font-size: 18px;
+    line-height: 1.6;
+    }
+    ul {
+    color: purple;
+    font-size: 17px;
+    }
+    H3 {
+    color: darkgreen;
+    text-align: center;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: center;
+}
+th {
+    background-color: lightgreen;
+    font-size: 18px;
+}
+tr:nth-child(even) {
+    background-color: white;
+}
