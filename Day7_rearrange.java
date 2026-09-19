@@ -17,4 +17,4 @@ public class Day7_rearrange {
             System.out.print(arr[i]+" ");
         }
     }
-}
+} 
